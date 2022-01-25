@@ -1,0 +1,46 @@
+html {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(232, 255, 101);
+    text-align: center;
+}
+h1 {
+    font-size: 25px;
+    color: rgb(96, 97, 13);
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(185, 207, 103);
+}
+
+h3 {
+    font-size: 16px;
+    color: rgb(189, 159, 27);
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+table{
+    width: 50%;
+    margin-left: 325px;
+}
+
+th {
+    background-color: rgb(236, 253, 78);
+    color: black;
+}
+
+figcaption {
+    color: rgb(0, 0, 0);
+    font-style: arial;
+    padding: 0px;
+    text-align: auto;
+}
